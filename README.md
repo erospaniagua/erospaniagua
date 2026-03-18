@@ -6,7 +6,7 @@ I am a **Full-Stack Developer** specializing in the **MERN stack (MongoDB, Expre
 
 💻 I enjoy building end-to-end applications, solving complex problems, and continuously learning new tools and frameworks.  
 🎓 I graduated from the **TripleTen Fullstack Developer Bootcamp**, where I gained extensive hands-on experience through real-world projects.  
-📈 Currently working in the **Human Resources industry**, focusing on applications that streamline workflows and enhance user experiences.  
+📈 Currently working as solo-dev in the creation of a multi-tenancy LMS, MPV version already deployed with real paying users  : https://www.cstgtraining.com/
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,nodejs,express,mongodb,)](https://skillicons.dev)
 
